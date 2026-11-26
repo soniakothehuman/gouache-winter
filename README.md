@@ -7,15 +7,15 @@ A Claude Code look for the desktop and mobile apps: warm, gouache-painted paper 
 At the prompt of a terminal session:
 
 ```
-/plugin install gouache-winter --marketplace <owner>/<repo>
+/plugin install gouache-winter --marketplace soniakothehuman/gouache-winter
 ```
 
 From a shell:
 
 ```
-claude plugin install gouache-winter --marketplace <owner>/<repo>
+claude plugin install gouache-winter --marketplace soniakothehuman/gouache-winter
 ```
 
-In the desktop app: click + next to the prompt box, then Plugins, Add marketplace with `<owner>/<repo>`, then Add plugin.
+In the desktop app: click + next to the prompt box, then Plugins, Add marketplace with `soniakothehuman/gouache-winter`, then Add plugin.
 
 The look is applied when a session starts; in a session that was already running, run `/reload-plugins` or start a new session. The terminal draws no theme.
