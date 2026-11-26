@@ -1,0 +1,5 @@
+{
+  "name": "gouache-winter",
+  "owner": { "name": "soyeon" },
+  "plugins": [{ "name": "gouache-winter", "source": "./" }]
+}

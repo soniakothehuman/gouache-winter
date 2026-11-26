@@ -1,0 +1,6 @@
+{
+  "name": "gouache-winter",
+  "version": "0.2.0",
+  "description": "Gouache winter look: warm paper colors, painted message cards, and snow that piles up as the context window fills.",
+  "types": "./types/index.d.ts"
+}
